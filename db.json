@@ -182,5 +182,11 @@
     }
   ],
   "carts": [
+    {
+      "id": 6,
+      "name": "Handmade Granite Mouse",
+      "price": "591.00",
+      "imageUrl": "https://picsum.photos/320/240?random=0.5606633591653254"
+    }
   ]
 }
